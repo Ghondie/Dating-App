@@ -202,7 +202,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [forks-url]: https://github.com/Ghondie/Dating-App/network/members
 [stars-shield]: https://img.shields.io/github/stars/Ghondie/Dating-App.svg?style=for-the-badge
 [stars-url]: https://github.com/Ghondie/Dating-App/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Ghondie/Dating-App
+[issues-shield]: https://img.shields.io/github/issues/Ghondie/Dating-App?style=for-the-badge
 [issues-url]: https://github.com/Ghondie/Dating-App/issues
 
 <!-- [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
