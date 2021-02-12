@@ -95,7 +95,7 @@ This section should list any major frameworks that you built your project using.
 -   [SQLite](https://www.sqlite.org/index.html)
 -   [Type Script](https://www.typescriptlang.org/)
 -   [Node](https://www.npmjs.com/)
-  [CORS](https://www.npmjs.com/package/cors)
+-       [CORS](https://www.npmjs.com/package/cors)
 -   [JSON WebToken](https://jwt.io/)
 
 <!-- GETTING STARTED -->
