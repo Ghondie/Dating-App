@@ -91,6 +91,8 @@ This section should list any major frameworks that you built your project using.
 -   [Angular Bootstrap](https://valor-software.com/ngx-bootstrap/#/)
 -   [Dotnet](https://dotnet.microsoft.com/)
 -   [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+    -   [DTO](https://en.wikipedia.org/wiki/Data_transfer_object)
+    -   [Services](https://docs.microsoft.com/en-us/dotnet/api/system.web.services.description.service?view=netframework-4.8)
 -   [Angular](https://angular.io/)
 -   [SQLite](https://www.sqlite.org/index.html)
 -   [Type Script](https://www.typescriptlang.org/)
