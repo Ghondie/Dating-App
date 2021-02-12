@@ -99,7 +99,6 @@ This section should list any major frameworks that you built your project using.
 -   [SQLite](https://laravel.com)
 -   [Type Script](https://laravel.com)
 -   [Node](https://www.npmjs.com/)
-    -   [C#](https://laravel.com)
 
 <!-- GETTING STARTED -->
 
