@@ -119,16 +119,15 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
     ```sh
     git clone https://github.com/your_username_/Project-Name.git
     ```
-3. Install NPM packages
+2. Install NPM packages
     ```sh
     npm install
     ```
-4. Enter your API in `config.js`
+3. Enter your API in `config.js`
     ```JS
     const API_KEY = 'ENTER YOUR API';
     ```
@@ -169,7 +168,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Jared Schau- [LinkedIn](https://www.linkedin.com/in/jared-schau-a2a56361/) - Jared.M.Schau@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
