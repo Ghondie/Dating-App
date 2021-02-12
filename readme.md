@@ -6,6 +6,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -80,6 +81,9 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
+User Authication:
+Password hashing and Password salting Password registration to the DB JasonWeb Tokens
+
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -91,6 +95,8 @@ This section should list any major frameworks that you built your project using.
 -   [SQLite](https://www.sqlite.org/index.html)
 -   [Type Script](https://www.typescriptlang.org/)
 -   [Node](https://www.npmjs.com/)
+    [CORS](https://www.npmjs.com/package/cors)
+-   [JSON WebToken](https://jwt.io/)
 
 <!-- GETTING STARTED -->
 

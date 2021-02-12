@@ -1,6 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 
 namespace API.DTOs
+// Register DTO to get user set up in DB
 {
     public class RegisterDto
     {
