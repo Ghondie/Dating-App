@@ -174,16 +174,10 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 -   [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 -   [Img Shields](https://shields.io)
--   [Choose an Open Source License](https://choosealicense.com)
--   [GitHub Pages](https://pages.github.com)
 -   [Udemy](https://www.udemy.com/course/build-an-app-with-aspnet-core-and-angular-from-scratch/)
--   [Loaders.css](https://connoratherton.com/loaders)
--   [Slick Carousel](https://kenwheeler.github.io/slick)
--   [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
--   [Sticky Kit](http://leafo.net/sticky-kit)
--   [JVectorMap](http://jvectormap.com)
 -   [Font Awesome](https://fontawesome.com)
 -   [Readme Template](https://github.com/othneildrew/Best-README-Template/blob/master/README.md)
+-   [Bootswatch](https://bootswatch.com/journal/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
