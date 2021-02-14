@@ -98,6 +98,7 @@ This section should list any major frameworks that you built your project using.
 -   [Type Script](https://www.typescriptlang.org/)
 -   [Node](https://www.npmjs.com/)
     -   [CORS](https://www.npmjs.com/package/cors)
+    -   [Toastr] (https://www.npmjs.com/package/ngx-toastr)
 -   [JSON WebToken](https://jwt.io/)
 
 <!-- GETTING STARTED -->
