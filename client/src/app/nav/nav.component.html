@@ -22,6 +22,7 @@
       </ng-container>
     </ul>
 
+    <!-- Hamburger menu -->
     <div
       class="dropdown"
       *ngIf="accountService.currentUser$ | async as user"
@@ -36,7 +37,9 @@
         <a class="dropdown-item" (click)="logout()">Logout</a>
       </div>
     </div>
-
+  
+  
+    <!-- logging form in header -->
     <form
       *ngIf="(accountService.currentUser$ | async) === null"
       #loginForm="ngForm"
