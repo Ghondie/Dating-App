@@ -80,28 +80,32 @@ Here's why:
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
+
 <!-- All backend info needs to go here -->
+
 ## Backend
-Controllers: 
+
+Controllers:
 Set up multiple controllers to handle users, Accounts, Error handling controller
 
-DTO: 
+DTO:
 Set up DTO's to improve load times and break up the code into a more re-usable format
 
-
-
 <!-- All Front end needs to go here -->
+
 ## Front end
 
 User Authication:
 Password hashing and Password salting Password registration to the DB JasonWeb Tokens
 
 Error Handling,
-To accomplish my goal I used Toasts to desplay bad username, passwords. I also set up Toasts for 400, 400 Validation,401,404, and 500 errors. The 404 error routes you to a return to home page.
+To accomplish my goal I used Toasts to desplay bad username, passwords. I also set up Toasts for 400, 400 Validation, 401, 404, and 500 errors. The 404 error routes you to a return to home page.
+
+<!-- All of the services that I used -->
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Below is most of the framework/extentions I used.
 
 -   [Angular Bootstrap](https://valor-software.com/ngx-bootstrap/#/)
 -   [Dotnet](https://dotnet.microsoft.com/)
