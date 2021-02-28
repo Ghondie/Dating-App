@@ -185,7 +185,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Jared Schau- [LinkedIn](https://www.linkedin.com/in/jared-schau-a2a56361/) - Jared.M.Schau@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Ghondie/Dating-App)
+Project Link: [https://github.com/Ghondie/Dating-App](https://github.com/Ghondie/Dating-App)
 
 <!-- ACKNOWLEDGEMENTS -->
 
