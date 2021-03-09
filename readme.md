@@ -76,20 +76,22 @@ For this project I decited to make a dating app. Below you will find how the fro
 ## Backend
 
 Controllers:
-Set up multiple controllers to handle users, Accounts, Error handling controller
+Set up multiple controllers to handle users, Accounts, Error handling controller.
 
 DTO:
-Set up DTO's to improve load times and break up the code into a more re-usable format
+Set up DTO's to improve load times and break up the code into a more re-usable format.
 
 Repository:
 Set up a Repository for a DRY code enviroment, and easier testing.
+
+AutoMapper: Adding a layer of obstraction for better unit testing. Set up with querable extentions to return data in a presentable format.
 
 <!-- All Front end needs to go here -->
 
 ## Front end
 
 User Authication:
-Password hashing and Password salting Password registration to the DB JasonWeb Tokens
+Password hashing and Password salting Password registration to the DB JasonWeb Tokens.
 
 Error Handling,
 To accomplish my goal I used Toasts to desplay bad username, passwords. I also set up Toasts for 400, 400 Validation, 401, 404, and 500 errors. The 404 error routes you to a return to home page.
@@ -103,8 +105,9 @@ Below is most of the framework/extentions I used.
 -   [Angular Bootstrap](https://valor-software.com/ngx-bootstrap/#/)
 -   [Dotnet](https://dotnet.microsoft.com/)
 -   [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-    -   [DTO](https://en.wikipedia.org/wiki/Data_transfer_object)
-    -   [Services](https://docs.microsoft.com/en-us/dotnet/api/system.web.services.description.service?view=netframework-4.8)
+-   [AutoMapper](https://automapper.org/)
+-   [DTO](https://en.wikipedia.org/wiki/Data_transfer_object)
+-   [Services](https://docs.microsoft.com/en-us/dotnet/api/system.web.services.description.service?view=netframework-4.8)
 -   [Angular](https://angular.io/)
 -   [SQLite](https://www.sqlite.org/index.html)
 -   [Type Script](https://www.typescriptlang.org/)
