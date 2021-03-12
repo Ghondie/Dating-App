@@ -1,0 +1,25 @@
+.card:hover img {
+  transform: scale(1.2, 1.2);
+  transition-duration: 500ms;
+  transition-timing-function: ease-out;
+  opacity: 0.7;
+}
+
+.card img {
+  transform: scale(1, 1);
+  transition-duration: 500ms;
+  transition-timing-function: ease-out;
+}
+
+/* targeting whole card for shadow and border */
+.card {
+  -webkit-box-shadow: 2px 3px 10px 1px rgba(0, 0, 0, 0.75);
+  box-shadow: 2px 3px 10px .5px rgba(0, 0, 0, 0.75);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+/* targeting image to make sure it stays in the card */
+.card-img-wrapper {
+  overflow: hidden;
+}
