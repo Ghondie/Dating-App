@@ -14,7 +14,7 @@
 /* targeting whole card for shadow and border */
 .card {
   -webkit-box-shadow: 2px 3px 10px 1px rgba(0, 0, 0, 0.75);
-  box-shadow: 2px 3px 10px .5px rgba(0, 0, 0, 0.75);
+  box-shadow: 2px 3px 10px 0.5px rgba(0, 0, 0, 0.75);
   border-radius: 10px;
   overflow: hidden;
 }
@@ -22,4 +22,27 @@
 /* targeting image to make sure it stays in the card */
 .card-img-wrapper {
   overflow: hidden;
+  position: relative;
+}
+
+/* Font awesome icons at photo level */
+.member-icons {
+  position: absolute;
+  bottom: -30%;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0;
+}
+
+/* Font awesome icon hover effect */
+.card-img-wrapper:hover .member-icons {
+  bottom: 0;
+  opacity: 1;
+}
+
+/* Font awesome animate Bottom => Top animate */
+.animate {
+  transition: all 0.3s ease-in-out;
 }
