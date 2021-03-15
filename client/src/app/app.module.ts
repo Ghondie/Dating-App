@@ -22,6 +22,7 @@ import { ServerErrorComponent } from './errors/server-error/server-error.compone
 import { MembersService } from './_services/members.service';
 import { JwtInterceptor } from './_interceptors/jwt.interceptor';
 import { MemberCardComponent } from './members/member-card/member-card.component';
+import { MemberEditComponent } from './members/member-edit/member-edit.component';
 
 @NgModule({
   declarations: [
@@ -37,6 +38,7 @@ import { MemberCardComponent } from './members/member-card/member-card.component
     NotFoundComponent,
     ServerErrorComponent,
     MemberCardComponent,
+    MemberEditComponent,
     // MembersService,
   ],
   imports: [
