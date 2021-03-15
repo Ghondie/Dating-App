@@ -71,8 +71,28 @@
 
 For this project I decited to make a dating app. Below you will find how the front end and back end is set up. This project was made using Dotnet, C#, and Angular.
 
-<!-- All backend info needs to go here -->
+<!-- All Front end needs to go here -->
+## Front end
 
+Add User:
+When a user visits the site they will be asked to make a account. All account data is protected with encryption to create a safe client expirence.
+
+Connecting to a user:
+When your account is set up you can connect to other user by clicking on the matches tab at the top. When you hover over a user that you would like to connect to you can heart them, message them or look at their profile to see if they are a good match for you.
+
+Update Profile: 
+The update profile feature allows users to update information and photos. A submit button and notification will show up when a user has updated a field. I have added a safeguard for clicking off the page with a toast notification.
+
+Interceptors:
+Added some interceptors to prevent any CORS errors.
+
+User Authication:
+Password hashing and Password salting Password registration to the DB JasonWeb Tokens. User auth is protected and saved in the database.
+
+Error Handling,
+To accomplish my goal I used Toasts to desplay bad username, passwords. I also set up Toasts for 400, 400 Validation, 401, 404, and 500 errors. The 404 error routes you to a return to home page.
+
+<!-- All backend info needs to go here -->
 ## Backend
 
 Controllers:
@@ -88,13 +108,6 @@ AutoMapper: Adding a layer of obstraction for better unit testing. Set up with q
 
 <!-- All Front end needs to go here -->
 
-## Front end
-
-User Authication:
-Password hashing and Password salting Password registration to the DB JasonWeb Tokens.
-
-Error Handling,
-To accomplish my goal I used Toasts to desplay bad username, passwords. I also set up Toasts for 400, 400 Validation, 401, 404, and 500 errors. The 404 error routes you to a return to home page.
 
 <!-- All of the services that I used -->
 
@@ -120,8 +133,7 @@ Below is most of the framework/extentions I used.
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Please fork the repository then follow the instructions below.
 
 ### Prerequisites
 
